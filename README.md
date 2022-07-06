@@ -12,7 +12,10 @@ Developed a full stack application that manages students database using React an
 - Delete Employee information
 - Update Employee information
 
-![caption](/media/reactapp.gif)
+### Walkthrough
+![caption](media/react-app.gif)
+
+### MySQL Database
 ![alt text](https://github.com/tpemba100/Student-Group/blob/master/media/data.png?raw=true)
 
 ### Technologies
