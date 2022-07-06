@@ -12,8 +12,8 @@ Developed a full stack application that manages students database using React an
 - Delete Employee information
 - Update Employee information
 
-![caption](reactapp.gif)
-![alt text](https://github.com/tpemba100/Student-Group/blob/master/data.png?raw=true)
+![caption](./media/reactapp.gif)
+![alt text](https://github.com/tpemba100/Student-Group/blob/master/media/data.png?raw=true)
 
 ### Technologies
 React (Frontend View Framework)
