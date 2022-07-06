@@ -7,10 +7,10 @@ Developed a full stack application that manages students database using React an
 
 
 ### Features
-Add Students information
-Save Employee information
-Delete Employee information
-Update Employee information
+- Add Students information
+- Save Employee information
+- Delete Employee information
+- Update Employee information
 
 ![caption](reactapp.gif)
 ![alt text](https://github.com/tpemba100/Student-Group/blob/master/data.png?raw=true)
