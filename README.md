@@ -3,7 +3,7 @@
 ### Description
 This is an application that can help students manage members in their group. The students can be added directly from a form container and displayed right below it. All the data is stored in MySQL Database or PHP MyAdmin. 
 
-Developed a full stack application that manages students database using React and Spring Boot. The backend server was built using java, Spring Boot and MySQL database with Restful API. and The front end was built on React.js with Material UI, CSS and implementation of React Hooks.
+Developed a full stack application that manages student database using React and Spring Boot. The backend server was built using java, Spring Boot and MySQL database with Restful API. and The front end was built on React.js with Material UI, CSS and implementation of React Hooks.
 
 
 ### Features
