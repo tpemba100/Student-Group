@@ -19,15 +19,15 @@ Developed a full stack application that manages students database using React an
 ![alt text](https://github.com/tpemba100/Student-Group/blob/master/media/data.png?raw=true)
 
 ### Technologies
-React (Frontend View Framework)
-React Hooks (useState, useEffect)
-Spring Boot (MVC, JPA, Hibernate)
-MySQL Database
-PHP MyAdmin
-RESTful Web services API
-Fetch for consuming REST API
-Material UI
-Node (npm)
-Visual Studio Code (JavaScript IDE), IntelliJ IDEA (Java)
-Tomcat Embedded Web Server
-Postman (GET, POST)
+- React (Frontend View Framework)
+- React Hooks (useState, useEffect)
+- Spring Boot (MVC, JPA, Hibernate)
+- MySQL Database
+- PHP MyAdmin
+- RESTful Web services API
+- Fetch for consuming REST API
+- Material UI
+- Node (npm)
+- Visual Studio Code (JavaScript IDE), IntelliJ IDEA (Java)
+- Tomcat Embedded Web Server
+- Postman (GET, POST)
