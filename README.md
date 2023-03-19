@@ -20,6 +20,7 @@ Developed a full stack application that manages student database using React and
 
 ### Technologies
 - React (Frontend View Framework)
+- Java
 - React Hooks (useState, useEffect)
 - Spring Boot (MVC, JPA, Hibernate)
 - MySQL Database
